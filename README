@@ -5,8 +5,7 @@ Enciphers and deciphers text using a Vigenère cipher.
 To run the program, run:
     make
 
-Included are the vig and ftable commands:
-    usage: vig [ -v ] [ -d ] key [ infile [ outfile ] ]
+usage: vig [ -v ] [ -d ] key [ infile [ outfile ] ]
 
 executables will need to be preceded with "./" unless 
 $PATH is updated appropriately.
